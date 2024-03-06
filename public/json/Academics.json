@@ -1,0 +1,1113 @@
+{
+	"CS Hons": [
+		{
+			"sem": 1,
+			"time_table": "/images/timetable/cs/sem1.jpg",
+			"subjects": [
+				{
+					"name": "Advance Mathematics for Computing",
+					"books": [
+						{
+							"name": "Erwin Kreyszig Advance Engineering Mathematics (10th edition)",
+							"img": "/images/book_thumbnail/cs/sem1/adv_maths.jpg",
+							"url": "https://drive.google.com/file/d/1NWxiqrq_R8q_46dARMIRT9FVF4yik_Vs/view?usp=drive_link"
+						}
+					],
+					"pyqs": [],
+					"notes": [],
+					"syllabus": "#"
+				},
+				{
+					"name": "Problem Solving Using Python",
+					"books": [
+						{
+							"name": "Ashok Namdev Kamthee & Amit Ashok kamthee - Programming and problem solving with python",
+							"img": "/images/book_thumbnail/cs/sem1/python.jpg",
+							"url": "https://drive.google.com/file/d/1XMjhmxsisbuikHd6nKmms399W8PjxWD2/view?usp=drive_link"
+						}
+					],
+					"pyqs": [],
+					"notes": [],
+					"syllabus": "#"
+				},
+				{
+					"name": "Computer System Architecture",
+					"books": [
+						{
+							"name": "M.Moris Mano - Computer System Architecture (3rd edition)",
+							"img": "/images/book_thumbnail/cs/sem1/csa.jpg",
+							"url": "https://drive.google.com/file/d/12irARG3206OY6_yTA9hpnT3wES-jfFQt/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2016",
+							"url": "https://drive.google.com/file/d/1xmh3dEBHoGSIzfCx6u9POgGmBm9pq13V/view?usp=drive_link"
+						},
+						{
+							"year": "2017",
+							"url": "https://drive.google.com/file/d/1nLS6zDYqFbf6W9AVDVeHAGYGa4PF3qV8/view?usp=drive_link"
+						},
+						{
+							"year": "2018",
+							"url": "https://drive.google.com/open?id=1s1McD9EWt_1eX9JkUHy_UAGD-xhNFnii&usp=drive_copy"
+						},
+						{
+							"year": "2019",
+							"url": "https://drive.google.com/open?id=1s1McD9EWt_1eX9JkUHy_UAGD-xhNFnii&usp=drive_copy"
+						},
+						{
+							"year": "2020",
+							"url": "https://drive.google.com/file/d/1GjylB7hSf7E1Ye_V0k9w6oKnEpBuxsDw/view?usp=drive_link"
+						},
+						{
+							"year": "2021",
+							"url": "https://drive.google.com/file/d/1GjylB7hSf7E1Ye_V0k9w6oKnEpBuxsDw/view?usp=drive_link"
+						},
+						{
+							"year": "2022",
+							"url": "https://drive.google.com/file/d/1GjylB7hSf7E1Ye_V0k9w6oKnEpBuxsDw/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				}
+			]
+		},
+		{
+			"sem": 3,
+			"time_table": "sanganika/images/timetable/cs/sem3.jpg",
+			"subjects": [
+				{
+					"name": "Data Sturctures And Algorithms",
+					"books": [
+						{
+							"name": "Adam Drozdek- Data Sturctures and Algorith in C++ (2nd Edition)",
+							"img": "/images/book_thumbnail/cs/sem3/dsa1.jpg",
+							"url": "https://drive.google.com/file/d/1QsJkl855oibq7LVgTFM1YsK-FPkO8u8f/view?usp=drive_link"
+						},
+						{
+							"name": "Micheal T Goorich, David Mount - Data Sturctures and algorithm using C++ (2nd edition) ",
+							"img": "/images/book_thumbnail/cs/sem3/dsa2.jpg",
+							"url": "https://drive.google.com/file/d/1Md-BeP6ZlfyP0yu4I7-UbwVVcbmg5kIF/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": 2016,
+							"url": "https://drive.google.com/file/d/1HJAlVtbfxIy7MgoUT5uJvFL5vN_iqVti/view?usp=drive_link"
+						},
+						{
+							"year": 2017,
+							"url": "https://drive.google.com/file/d/1S968xod8logDkD-EjjYeKxPsiKr3G_78/view?usp=drive_link"
+						},
+						{
+							"year": 2018,
+							"url": "https://drive.google.com/file/d/1S968xod8logDkD-EjjYeKxPsiKr3G_78/view?usp=drive_link"
+						},
+						{
+							"year": 2019,
+							"url": "https://drive.google.com/file/d/1N7ZGqfT8p4qUoUbjf5xI4NX-1bYr0GYP/view?usp=drive_link"
+						},
+						{
+							"year": 2020,
+							"url": "https://drive.google.com/file/d/1CXlraKxWdCHhYbJlFqtCQnBhk3MApU2y/view?usp=drive_link"
+						},
+						{
+							"year": 2021,
+							"url": "https://drive.google.com/file/d/1N7ZGqfT8p4qUoUbjf5xI4NX-1bYr0GYP/view?usp=drive_link"
+						},
+						{
+							"year": 2022,
+							"url": "https://drive.google.com/file/d/1C_dkdACgrEm0HO98rQAMhf1N3BU5-4Wa/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				},
+				{
+					"name": "Operating System",
+					"books": [
+						{
+							"name": "Abraham Silberschatz, Greg Gange - Operating System concepts (9th edition)",
+							"img": "/images/book_thumbnail/cs/sem3/os.jpg",
+							"url": "https://drive.google.com/file/d/103AKdBifXZV-9GkIvFq-AVehKYIpeE9h/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": 2016,
+							"url": "https://drive.google.com/file/d/1tgQBlJJXi6wXu-SXivVPxqlAJqq6ld9E/view?usp=drive_link"
+						},
+						{
+							"year": 2017,
+							"url": "https://drive.google.com/open?id=1tHOlsSLnWlDcAVqOj6pTGkLOc56Kcc2D&usp=drive_copy"
+						},
+						{
+							"year": 2018,
+							"url": "https://drive.google.com/file/d/1iKJW2RwCRYfX1tmFsHjeVilEpQtqaDZT/view?usp=drive_link"
+						},
+						{
+							"year": 2019,
+							"url": "https://drive.google.com/file/d/1e9RnUGGDPTmf2F34P_TeKOzp13Xb64HC/view?usp=drive_link"
+						},
+						{
+							"year": 2020,
+							"url": "https://drive.google.com/file/d/1e9RnUGGDPTmf2F34P_TeKOzp13Xb64HC/view?usp=drive_link"
+						},
+						{
+							"year": 2021,
+							"url": "https://drive.google.com/file/d/1OptxBJflGtPkOu3ectRN2CfKmoYUIQ8j/view?usp=drive_link"
+						},
+						{
+							"year": 2022,
+							"url": "https://drive.google.com/file/d/1CfanAEsWNK2d_hBkLk21zye9SxiIZ_zu/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				},
+				{
+					"name": "Numerical Optimization",
+					"books": [
+						{
+							"name": "Jorge Nocedal, Stephan j. Wright - Numerical Opitimization (2nd edition)",
+							"img": "/images/book_thumbnail/cs/sem3/no.jpg",
+							"url": "https://drive.google.com/file/d/1PEih8G8RVqjsG6tXfoyBkmuyu3eKAlrh/view?usp=drive_link"
+						}
+					],
+					"pyqs": [],
+					"notes": [],
+					"syllabus": "#"
+				}
+			]
+		},
+		{
+			"sem": 4,
+			"time_table": "#",
+			"subjects": [
+				{
+					"name": "Design and Analysis of Algorithm",
+					"books": [
+						{
+							"name": "Thomas H Cormen & Charles E Leiserson - Introduction to algorithms (3rd edition)",
+							"img": "/images/book_thumbnail/cs/sem4/algo1.jpg",
+							"url": "https://drive.google.com/file/d/1uVAXYPN5iWL8rY3H6lBeta022BIZvMUX/view?usp=drive_link"
+						},
+						{
+							"name": "John Kleinberg - ALogirhm Designs",
+							"img": "/images/book_thumbnail/cs/sem4/algo2.jpg",
+							"url": "https://drive.google.com/file/d/1817orAjkvEr8iw7zAAovfaUZ3SZlS9eC/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2017",
+							"url": "https://drive.google.com/file/d/1fq9VnzJrwWd4n0f5cu-hJbn6gHvZ5GBQ/view?usp=drive_link"
+						},
+						{
+							"year": "2018",
+							"url": "https://drive.google.com/file/d/1h9nDd9Sy0OetJCIutgXqf-hMJTkVDpMB/view?usp=drive_link"
+						},
+						{
+							"year": "2019",
+							"url": "https://drive.google.com/file/d/1CysiJxFi_QoUEA3vDGaEOrO2Q9a8py0r/view?usp=drive_link"
+						},
+						{
+							"year": "2021",
+							"url": "https://drive.google.com/file/d/1aOWrTHVLqR8EsvHIr1jkBl0Nhek4jO5A/view?usp=drive_link"
+						},
+						{
+							"year": "2022",
+							"url": "https://drive.google.com/file/d/1Eo5lsbASGHodIAktGb0dXzZ3VGbBmm_q/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				},
+				{
+					"name": "Database Management System",
+					"books": [
+						{
+							"name": "Elmasri & Navathe - Fundamentals of Database Systems (7th edition)",
+							"img": "/images/book_thumbnail/cs/sem4/dbms1.jpg",
+							"url": "https://drive.google.com/file/d/1EK8uNsovWqKqMmQ8q5WCa2UDc-An8WYw/view?usp=drive_link"
+						},
+						{
+							"name": "Joel Murach - Murach's MySQL (3rd edtion)",
+							"img": "/images/book_thumbnail/cs/sem4/dbms2.jpg",
+							"url": "https://drive.google.com/file/d/1opez_8ikqTqxXaDwujFOanNFIS4uSCPw/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2017",
+							"url": "https://drive.google.com/file/d/1rELgCSBl6I33rBfJaNkWiMPWN_XF6n9a/view?usp=drive_link"
+						},
+						{
+							"year": "2018",
+							"url": "https://drive.google.com/file/d/1fZ1NQ5xl2ifnqbqdZq77x4odrk3txL_u/view?usp=drive_link"
+						},
+						{
+							"year": "2019",
+							"url": "https://drive.google.com/file/d/1rELgCSBl6I33rBfJaNkWiMPWN_XF6n9a/view?usp=drive_link"
+						},
+						{
+							"year": "2021",
+							"url": "https://drive.google.com/file/d/1_dUJJ2iK9cU8MljDBTtaBc3-AQyxsKu8/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				},
+				{
+					"name": "Computer Networks",
+					"books": [
+						{
+							"name": "Tanenbaun & Wetherall - Computer Network (5th edition)",
+							"img": "/images/book_thumbnail/cs/sem4/cn1.jpg",
+							"url": "https://drive.google.com/file/d/1bNz36f3VmJ16xOT53NyZ8b-lojW_KAA1/view?usp=drive_link"
+						},
+						{
+							"name": "Behrouz A Forouzan - Data Comunication and networking (4th edition)",
+							"img": "/images/book_thumbnail/cs/sem4/cn2.jpg",
+							"url": "https://drive.google.com/file/d/1JkbiX6bnVGX9Ol9pmOgDeqcgqjvvvTpz/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2016",
+							"url": "https://drive.google.com/file/d/1NAcdjX9kbaraMMHmoF2kP3UBiRVBJZQW/view?usp=drive_link"
+						},
+						{
+							"year": "2017",
+							"url": "https://drive.google.com/file/d/1NAcdjX9kbaraMMHmoF2kP3UBiRVBJZQW/view?usp=drive_link"
+						},
+						{
+							"year": "2018",
+							"url": "https://drive.google.com/file/d/1lrc_54unq5j2nayigcP9H-CKn49G3taX/view?usp=drive_link"
+						},
+						{
+							"year": "2019",
+							"url": "https://drive.google.com/file/d/1VL0Ph8QP4xCY_Ax0ZFshl31cX91DnT2Y/view?usp=drive_link"
+						},
+						{
+							"year": "2020",
+							"url": "https://drive.google.com/file/d/1VL0Ph8QP4xCY_Ax0ZFshl31cX91DnT2Y/view?usp=drive_link"
+						},
+						{
+							"year": "2021",
+							"url": "https://drive.google.com/file/d/1VL0Ph8QP4xCY_Ax0ZFshl31cX91DnT2Y/view?usp=drive_link"
+						},
+						{
+							"year": "2022",
+							"url": "https://drive.google.com/file/d/1D3ahuz_c7bgMA57S6jBKURHbgwltLqMz/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				}
+			]
+		},
+		{
+			"sem": 5,
+			"time_table": "#",
+			"subjects": [
+				{
+					"name": "Internet Technoligies",
+					"books": [
+						{
+							"name": "Learning PHP, MySQL, JavaScript, CSS & HTML5, (Robin Nixon), 3rd Edition, O’Reilly Media",
+							"img": "/images/book_thumbnail/cs/sem5/it1.jpg",
+							"url": "https://drive.google.com/file/d/16yJ7r9v-Jwy0K24Myv8bYZ54kiF2tc3P/view?usp=drive_link"
+						},
+						{
+							"name": "JavaScript and JQuery – Interactive Front-end Web Development, (Jon Duckett), John Wiley and Sons, Inc.",
+							"img": "/images/book_thumbnail/cs/sem5/it2.jpg",
+							"url": "https://drive.google.com/open?id=1UkTMNOb-iSEKmae03w4Mh5s3Kq7HmARA&usp=drive_copy"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2010",
+							"url": "https://drive.google.com/file/d/1F0W-IasxFZFjLo5hfSfuG48E7pKTCQ_h/view?usp=drive_link"
+						},
+						{
+							"year": "2017",
+							"url": "https://drive.google.com/file/d/1F0W-IasxFZFjLo5hfSfuG48E7pKTCQ_h/view?usp=drive_link"
+						},
+						{
+							"year": "2018",
+							"url": "https://drive.google.com/file/d/1DLewUUAFu0M-6jR6OGREvmlO61XJM3Xs/view?usp=drive_link"
+						},
+						{
+							"year": "2019",
+							"url": "https://drive.google.com/file/d/1DLewUUAFu0M-6jR6OGREvmlO61XJM3Xs/view?usp=drive_link"
+						},
+						{
+							"year": "2021",
+							"url": "https://drive.google.com/file/d/1DLewUUAFu0M-6jR6OGREvmlO61XJM3Xs/view?usp=drive_link"
+						},
+						{
+							"year": "2022",
+							"url": "https://drive.google.com/file/d/1nNmk5dndnmc5f2jLrnzhtr6y7UFAmkMj/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				},
+				{
+					"name": "Theory of Computation",
+					"books": [
+						{
+							"name": "Cohen, D.I.A (2011). Introduction to Computer Theory. 2nd edition. Wiley India.",
+							"img": "/images/book_thumbnail/cs/sem5/toc.jpg",
+							"url": "https://drive.google.com/file/d/1_53kDTdrRLBtSwKvsy4Q3F4jadfQn73S/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "1017",
+							"url": "https://drive.google.com/file/d/1dzVJSO6e6V5ffZZOzIAmM1LDxiwaQHl4/view?usp=drive_link"
+						},
+						{
+							"year": "2018",
+							"url": "https://drive.google.com/file/d/1dzVJSO6e6V5ffZZOzIAmM1LDxiwaQHl4/view?usp=drive_link"
+						},
+						{
+							"year": "2019",
+							"url": "https://drive.google.com/file/d/1QLeO9v0i1iEQhLIInfL5FmIfUMMwAKKx/view?usp=drive_link"
+						},
+						{
+							"year": "2020",
+							"url": "https://drive.google.com/file/d/1QLeO9v0i1iEQhLIInfL5FmIfUMMwAKKx/view?usp=drive_link"
+						},
+						{
+							"year": "2021",
+							"url": "https://drive.google.com/file/d/1QLeO9v0i1iEQhLIInfL5FmIfUMMwAKKx/view?usp=drive_link"
+						},
+						{
+							"year": "2022",
+							"url": "https://drive.google.com/file/d/17cj-tbKL9Qsmwb1JiJBo8DcMs5i9Q5X8/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				}
+			]
+		},
+		{
+			"sem": 6,
+			"time_table": "#",
+			"subjects": [
+				{
+					"name": "Data Analysis And Visualisation",
+					"books": [
+						{
+							"name": "McKinney, W. (2017). Python for Data Analysis: Data Wrangling with Pandas, NumPy and IPython. 2nd edition. O’Reilly Media.",
+							"img": "/images/book_thumbnail/cs/sem6/dav.jpg",
+							"url": "https://drive.google.com/file/d/1yMUXQ0hdN-wVfjv9gk-Kw3FpnZEYFQuZ/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2022",
+							"url": "https://drive.google.com/file/d/1HK2PXb5p3mFZ-fwC0bvyUrIFoG-2quuU/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				},
+				{
+					"name": "MicroProcessor - 8086 and its Families",
+					"books": [
+						{
+							"name": "Barry B, Brey: The Intel MicroProcessors: Architecture, Programming, and Interfacing. Pearson Education, Eighth Edition",
+							"img": "/images/book_thumbnail/cs/sem6/mp.jpg",
+							"url": "https://drive.google.com/file/d/1D3A74ugLGU5ZCDZO_K3WdOA3WS0XpSDI/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2017",
+							"url": "https://drive.google.com/file/d/1VKo4LliB0p7C7WoXTvxiGXDPsAubxNJE/view?usp=drive_link"
+						},
+						{
+							"year": "2018",
+							"url": "https://drive.google.com/file/d/1VKo4LliB0p7C7WoXTvxiGXDPsAubxNJE/view?usp=drive_link"
+						},
+						{
+							"year": "2019",
+							"url": "https://drive.google.com/file/d/1HK2PXb5p3mFZ-fwC0bvyUrIFoG-2quuU/view?usp=drive_link"
+						},
+						{
+							"year": "2021",
+							"url": "https://drive.google.com/file/d/1HK2PXb5p3mFZ-fwC0bvyUrIFoG-2quuU/view?usp=drive_link"
+						},
+						{
+							"year": "2022",
+							"url": "https://drive.google.com/file/d/1HK2PXb5p3mFZ-fwC0bvyUrIFoG-2quuU/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				}
+			]
+		}
+	],
+	"PSCS": [
+		{
+			"sem": 1,
+			"time_table": "sanganika/images/timetable/pscs/sem1.jpg",
+			"subjects": [
+				{
+					"name": "Programming in C++",
+					"books": [
+						{
+							"name": "Stephen prata - C++ primer plus (6th edition)",
+							"img": "/images/book_thumbnail/pscs/sem1/c++.jpg",
+							"url": "https://drive.google.com/file/d/1JarFXZH6Wj4lkTK2bmMF1bG4AY5SSAfC/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2016",
+							"url": "https://drive.google.com/file/d/1TI-yKNwCB18S-F3rE6AS52EiHfUfL6tt/view?usp=drive_link"
+						},
+						{
+							"year": "2017",
+							"url": "https://drive.google.com/file/d/1vj3mIqJq83Htr56O10LZAJH1e3RQDyXh/view?usp=drive_link"
+						},
+						{
+							"year": "2018",
+							"url": "https://drive.google.com/file/d/1vj3mIqJq83Htr56O10LZAJH1e3RQDyXh/view?usp=drive_link"
+						},
+						{
+							"year": "2019",
+							"url": "https://drive.google.com/file/d/1n3JFeWflHvC2-3InbpeUuMlyH5mdt33D/view?usp=drive_link"
+						},
+						{
+							"year": "2020",
+							"url": "https://drive.google.com/file/d/1khIsknhuOJGQh22QfpoQe9XqRpSx_WsH/view?usp=drive_link"
+						},
+						{
+							"year": "2021",
+							"url": "https://drive.google.com/file/d/1cp4PPmb8aTx-_t2SoQrO5zWcf9vEWB7V/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				},
+				{
+					"name": "Calculus and matrices",
+					"books": [
+						{
+							"name": "Dr. Gorakh Prasad - Differential Calculus (Revised Edition)",
+							"img": "/images/book_thumbnail/pscs/sem1/calculus.jpg",
+							"url": "https://drive.google.com/file/d/12V8r3RafbwYUPLD_pzDu3ZFJIRLSXFFZ/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2017",
+							"url": "https://drive.google.com/file/d/1h9FU43gHF97w2NJquAIhesy9r0pZGzVR/view?usp=drive_link"
+						},
+						{
+							"year": "2019-OC",
+							"url": "https://drive.google.com/file/d/1h9FU43gHF97w2NJquAIhesy9r0pZGzVR/view?usp=drive_link"
+						},
+						{
+							"year": "2019",
+							"url": "https://drive.google.com/file/d/1PXtJkoeEiD8neEaW75OvqYUiWOlPu3mL/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				},
+				{
+					"name": "Mechanics",
+					"books": [
+						{
+							"name": "D.S. Marthur - Mechanics for Students of BSc. (Revised Edition)",
+							"img": "/images/book_thumbnail/pscs/sem1/mechanics.jpg",
+							"url": "https://drive.google.com/file/d/1n7DiSRKFvJpvzallnaCSe3ZEer0GVnRW/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2017",
+							"url": "https://drive.google.com/file/d/1Q0AxfCFGRBm8zyIEy9S-1yd0krGjM025/view?usp=drive_link"
+						},
+						{
+							"year": "2019-OC",
+							"url": "https://drive.google.com/file/d/1PiHImJBYdhxszijT9zYmwUiJgVq7Rb1_/view?usp=drive_link"
+						},
+						{
+							"year": "2029",
+							"url": "https://drive.google.com/file/d/1PUUatAnQC4h2MdD9BnCPg2-njaNL903m/view?usp=drive_link"
+						}
+					],
+					"notes": [
+						{
+							"topic": "Relativity",
+							"url": "https://drive.google.com/file/d/1Bdg4WWHvOuoBSU0VpyuR9-d8LOUU3Rpb/view?usp=drive_link"
+						},
+						{
+							"topic": "Unit 1 Differential Euations",
+							"url": "https://drive.google.com/file/d/19LGJn3Fldez4WL1gz9WUv-48twL8hdcm/view?usp=drive_link"
+						},
+						{
+							"topic": "Unit 1 Vector",
+							"url": "https://drive.google.com/file/d/1kG7YMFARMMhnrm22DvDx-tqGybt7cfAR/view?usp=drive_link"
+						},
+						{
+							"topic": "Unit 2 Laws of motion",
+							"url": "https://drive.google.com/file/d/1DbIrosb3rmA81_LFhmDvj_FdyKcVK5Lm/view?usp=drive_link"
+						},
+						{
+							"topic": "Unit 2 Work Energy",
+							"url": "https://drive.google.com/file/d/12AsqGyp9wJxxKU8pLLGdLHRKiiy1x624/view?usp=drive_link"
+						},
+						{
+							"topic": "Unit 3 Rotation Dynamics",
+							"url": "https://drive.google.com/file/d/1a63peozQxKmk4YZopr_YtCCaL1zO5J8y/view?usp=drive_link"
+						},
+						{
+							"topic": "Unit 4 Gravitation",
+							"url": "https://drive.google.com/file/d/1a63peozQxKmk4YZopr_YtCCaL1zO5J8y/view?usp=drive_link"
+						},
+						{
+							"topic": "Unit 5 Oscillation",
+							"url": "https://drive.google.com/file/d/1pwn0Loibfjw2y-dZYmtVxwiGeOw3Tz29/view?usp=drive_link"
+						}
+					],
+					"syllabus": "#"
+				}
+			]
+		},
+		{
+			"sem": 2,
+			"time_table": "sanganika/images/timetable/pscs/sem2.jpg",
+			"subjects": [
+				{
+					"name": "Data Sturctures and Algorithm",
+					"books": [
+						{
+							"name": "Adam Drozdek-DataStructures and Algorithms in C++ (4th Edition)",
+							"img": "/images/book_thumbnail/pscs/sem2/dsa.jpg",
+							"url": "https://drive.google.com/file/d/11JFBJ02hKVXCFlQfNSCxqzUhHWz4a6Hf/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": 2016,
+							"url": "https://drive.google.com/file/d/1HJAlVtbfxIy7MgoUT5uJvFL5vN_iqVti/view?usp=drive_link"
+						},
+						{
+							"year": 2017,
+							"url": "https://drive.google.com/file/d/1S968xod8logDkD-EjjYeKxPsiKr3G_78/view?usp=drive_link"
+						},
+						{
+							"year": 2018,
+							"url": "https://drive.google.com/file/d/1S968xod8logDkD-EjjYeKxPsiKr3G_78/view?usp=drive_link"
+						},
+						{
+							"year": 2019,
+							"url": "https://drive.google.com/file/d/1N7ZGqfT8p4qUoUbjf5xI4NX-1bYr0GYP/view?usp=drive_link"
+						},
+						{
+							"year": 2020,
+							"url": "https://drive.google.com/file/d/1CXlraKxWdCHhYbJlFqtCQnBhk3MApU2y/view?usp=drive_link"
+						},
+						{
+							"year": 2021,
+							"url": "https://drive.google.com/file/d/1N7ZGqfT8p4qUoUbjf5xI4NX-1bYr0GYP/view?usp=drive_link"
+						},
+						{
+							"year": 2022,
+							"url": "https://drive.google.com/file/d/1C_dkdACgrEm0HO98rQAMhf1N3BU5-4Wa/view?usp=drive_link"
+						}
+					],
+					"notes": [
+						{
+							"topic": "introduction",
+							"url": "https://drive.google.com/file/d/1YjreQcGV03t2twI3gg_5cU_i2Kqjvwrn/view?usp=drive_link"
+						},
+						{
+							"topic": "1d Array",
+							"url": "https://drive.google.com/file/d/1Yh2JvA7N52aWXIVcodbeIQncHOIvatY8/view?usp=drive_link"
+						},
+						{
+							"topic": "2d Arrays",
+							"url": "https://drive.google.com/file/d/1PQpDtzbDdqt46RtQWqL3fJXFheIwPeg8/view?usp=drive_link"
+						},
+						{
+							"topic": "searching and sorting",
+							"url": "https://drive.google.com/file/d/1YjreQcGV03t2twI3gg_5cU_i2Kqjvwrn/view?usp=drive_link"
+						},
+						{
+							"topic": "insertion sort",
+							"url": "https://drive.google.com/file/d/1YjreQcGV03t2twI3gg_5cU_i2Kqjvwrn/view?usp=drive_link"
+						},
+						{
+							"topic": "Stacks",
+							"url": "https://drive.google.com/file/d/1VswVNePV3x-a8yCICMj8MxM2KlWtOzNI/view?usp=drive_link"
+						},
+						{
+							"topic": "stacks ppt",
+							"url": "https://drive.google.com/file/d/1cpWbDf3vq-VvEQ3sUcG8RZLkddKBDonV/view?usp=sharing"
+						},
+						{
+							"topic": "Queues",
+							"url": "https://drive.google.com/file/d/1VswVNePV3x-a8yCICMj8MxM2KlWtOzNI/view?usp=drive_link"
+						},
+						{
+							"topic": "Queues ppt",
+							"url": "https://drive.google.com/file/d/1rF0xtwOiRwLwsQmWjUerthmSptmaucya/view?usp=sharing"
+						}
+					],
+					"syllabus": "https://drive.google.com/file/d/1852Rt3xXcqEinPfUzpW_Nj3nCJ0vFPb1/view?usp=drive_link"
+				},
+				{
+					"name": "Linear Alzebra",
+					"books": [
+						{
+							"name": "Solutions to Linear Algebra, 4th Edition, Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence",
+							"img": "/images/book_thumbnail/pscs/sem2/LA-sol.jpg",
+							"url": "https://drive.google.com/file/d/1Ko6CCYknGSL-D6npTvHtuSJL0Pt0UGv-/view?usp=drive_link"
+						},
+						{
+							"name": "Linear Algebra, 4th Edition, Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence",
+							"img": "/images/book_thumbnail/pscs/sem2/LA.jpg",
+							"url": "https://drive.google.com/file/d/1JnSC5cAiEVQogxEiEsnevZAol0AHmXJK/view?usp=drive_link"
+						}
+					],
+					"pyqs": [],
+					"notes": [
+						{
+							"topic": "unit-1 Euclidean space R^n and matrices",
+							"url": "https://drive.google.com/file/d/1PfKpQegH3FLxRYXiRSUPYPHmwnd_8Pv5/view?usp=drive_link"
+						},
+						{
+							"topic": "unit-2 Introduction to vector space",
+							"url": "https://drive.google.com/file/d/1JCI655Y14RCSKcK2LAyo2z5tle3oWBja/view?usp=drive_link"
+						},
+						{
+							"topic": "Unit-3 linear transformation",
+							"url": "https://drive.google.com/file/d/1U7TxlK5zC3TyZudDOCCJW59eLQp-ZuFj/view?usp=drive_link"
+						}
+					],
+					"syllabus": "#"
+				},
+				{
+					"name": "Electricity, Magnetism and EMT",
+					"books": [
+						{
+							"name": "Halliday & Resnick - Fundamentals of Phyiscs (10th edition)",
+							"img": "/images/book_thumbnail/pscs/sem2/EM.jpg",
+							"url": "https://drive.google.com/file/d/13p6glxTHBMW-JNd4pljZc4aCCRQkZg9J/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2021",
+							"url": "https://drive.google.com/file/d/1YuuisRVPkdHJ2i5TYL1JfqDxPuyowjIh/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				}
+			]
+		},
+		{
+			"sem": 3,
+			"time_table": "sanganika/images/timetable/pscs/sem3.jpg",
+			"subjects": [
+				{
+					"name": "Computer System Architechture",
+					"books": [
+						{
+							"name": "M.Moris Mano - Computer System Architecture (3rd edition)",
+							"img": "/images/book_thumbnail/cs/sem1/csa.jpg",
+							"url": "https://drive.google.com/file/d/12irARG3206OY6_yTA9hpnT3wES-jfFQt/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2016",
+							"url": "https://drive.google.com/file/d/1xmh3dEBHoGSIzfCx6u9POgGmBm9pq13V/view?usp=drive_link"
+						},
+						{
+							"year": "2017",
+							"url": "https://drive.google.com/file/d/1nLS6zDYqFbf6W9AVDVeHAGYGa4PF3qV8/view?usp=drive_link"
+						},
+						{
+							"year": "2018",
+							"url": "https://drive.google.com/open?id=1s1McD9EWt_1eX9JkUHy_UAGD-xhNFnii&usp=drive_copy"
+						},
+						{
+							"year": "2019",
+							"url": "https://drive.google.com/open?id=1s1McD9EWt_1eX9JkUHy_UAGD-xhNFnii&usp=drive_copy"
+						},
+						{
+							"year": "2020",
+							"url": "https://drive.google.com/file/d/1GjylB7hSf7E1Ye_V0k9w6oKnEpBuxsDw/view?usp=drive_link"
+						},
+						{
+							"year": "2021",
+							"url": "https://drive.google.com/file/d/1GjylB7hSf7E1Ye_V0k9w6oKnEpBuxsDw/view?usp=drive_link"
+						},
+						{
+							"year": "2022",
+							"url": "https://drive.google.com/file/d/1GjylB7hSf7E1Ye_V0k9w6oKnEpBuxsDw/view?usp=drive_link"
+						}
+					],
+					"notes": [
+						{
+							"topic": "unit 1 digitial logic circuit",
+							"url": "https://drive.google.com/file/d/1AyzzlCKJzKwLhxU8ijtqM_g0aVCYRb-i/view?usp=drive_link"
+						},
+						{
+							"topic": "chapter 2",
+							"url": "https://drive.google.com/file/d/1AyzzlCKJzKwLhxU8ijtqM_g0aVCYRb-i/view?usp=drive_link"
+						},
+						{
+							"topic": "unit 3 data representation",
+							"url": "https://drive.google.com/file/d/1bCxuUHpB8eOQLkMILJp6yqWgDNWWWcva/view?usp=drive_link"
+						},
+						{
+							"topic": "chapter 3 complements",
+							"url": "https://drive.google.com/file/d/1DLCuJeX7WqHJ0UN0bWMmrvpMGtoVfkO8/view?usp=drive_link"
+						},
+						{
+							"topic": "chapter 5 unit 4",
+							"url": "https://drive.google.com/file/d/1scPTtmXGI9b8x8iu7dXRc5ApD8qBgznq/view?usp=drive_link"
+						},
+						{
+							"topic": "chapter 8",
+							"url": "https://drive.google.com/file/d/1scPTtmXGI9b8x8iu7dXRc5ApD8qBgznq/view?usp=drive_link"
+						},
+						{
+							"topic": "whole syllabus",
+							"url": "https://drive.google.com/file/d/1scPTtmXGI9b8x8iu7dXRc5ApD8qBgznq/view?usp=drive_link"
+						},
+						{
+							"topic": "instruction codes",
+							"url": "https://drive.google.com/file/d/1scPTtmXGI9b8x8iu7dXRc5ApD8qBgznq/view?usp=drive_link"
+						}
+					],
+					"syllabus": "#"
+				},
+				{
+					"name": "Differential Equations",
+					"books": [
+						{
+							"name": "Shepely L Ross - Diffrential Equations Third Edition",
+							"img": "/images/book_thumbnail/pscs/sem3/DE.jpg",
+							"url": "https://drive.google.com/file/d/1GhoCf97226E-K44Y_jRXtotzv-i2erHi/view?usp=drive_link"
+						}
+					],
+					"pyqs": [],
+					"notes": [
+						{
+							"topic": "chapter 1",
+							"url": "https://drive.google.com/file/d/1Db_2iQQYlrs-imMYbciXnAHLQV1cptCG/view?usp=drive_link"
+						},
+						{
+							"topic": "chapter 2",
+							"url": "https://drive.google.com/file/d/1x6z5VZXNiLa03Yyfny2QavhaVA6uA3yp/view?usp=drive_link"
+						},
+						{
+							"topic": "chapter 3",
+							"url": "https://drive.google.com/file/d/1aMyBGyRoC51mpTdxvWhTnJ1o7HJXKT29/view?usp=drive_link"
+						}
+					],
+					"syllabus": "#"
+				},
+				{
+					"name": "Heat and Thermodynamics",
+					"books": [
+						{
+							"name": "Mark W. Zemansky Richard H. DittMan - Heat And thermodynamics (7th edition)",
+							"img": "/images/book_thumbnail/pscs/sem3/HM.jpg",
+							"url": "https://drive.google.com/file/d/1K0AQ7YcWh147p05faEKeLUTYeX38wNTS/view?usp=drive_link"
+						}
+					],
+					"pyqs": [],
+					"notes": [],
+					"syllabus": "#"
+				}
+			]
+		},
+		{
+			"sem": 4,
+			"time_table": "",
+			"subjects": [
+				{
+					"name": "Operating System",
+					"books": [
+						{
+							"name": "Abraham Silberschatz, Greg Gange - Operating System concepts (9th edition)",
+							"img": "/images/book_thumbnail/cs/sem3/os.jpg",
+							"url": "https://drive.google.com/file/d/103AKdBifXZV-9GkIvFq-AVehKYIpeE9h/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": 2016,
+							"url": "https://drive.google.com/file/d/1tgQBlJJXi6wXu-SXivVPxqlAJqq6ld9E/view?usp=drive_link"
+						},
+						{
+							"year": 2017,
+							"url": "https://drive.google.com/open?id=1tHOlsSLnWlDcAVqOj6pTGkLOc56Kcc2D&usp=drive_copy"
+						},
+						{
+							"year": 2018,
+							"url": "https://drive.google.com/file/d/1iKJW2RwCRYfX1tmFsHjeVilEpQtqaDZT/view?usp=drive_link"
+						},
+						{
+							"year": 2019,
+							"url": "https://drive.google.com/file/d/1e9RnUGGDPTmf2F34P_TeKOzp13Xb64HC/view?usp=drive_link"
+						},
+						{
+							"year": 2020,
+							"url": "https://drive.google.com/file/d/1e9RnUGGDPTmf2F34P_TeKOzp13Xb64HC/view?usp=drive_link"
+						},
+						{
+							"year": 2021,
+							"url": "https://drive.google.com/file/d/1OptxBJflGtPkOu3ectRN2CfKmoYUIQ8j/view?usp=drive_link"
+						},
+						{
+							"year": 2022,
+							"url": "https://drive.google.com/file/d/1CfanAEsWNK2d_hBkLk21zye9SxiIZ_zu/view?usp=drive_link"
+						}
+					],
+					"notes": [
+						{
+							"topic": "chapter 1",
+							"url": "https://docs.google.com/presentation/d/1jK23_9CIH51letOaJBa8zQGd_wngIPcY/edit?usp=drive_link&ouid=102253006482066035211&rtpof=true&sd=true"
+						},
+						{
+							"topic": "chapter 2",
+							"url": "https://drive.google.com/file/d/1owVrzfsWsCrcYpB88WCSQU8efzxvnVcX/view?usp=drive_link"
+						},
+						{
+							"topic": "chapter 3",
+							"url": "https://drive.google.com/file/d/1owVrzfsWsCrcYpB88WCSQU8efzxvnVcX/view?usp=drive_link"
+						},
+						{
+							"topic": "chapter 5",
+							"url": "https://drive.google.com/file/d/1owVrzfsWsCrcYpB88WCSQU8efzxvnVcX/view?usp=drive_link"
+						},
+						{
+							"topic": "chapter 8",
+							"url": "https://docs.google.com/presentation/d/1K2oRZJLroqj4SSzCZSnh5Fdj3GmUKFBv/edit?usp=drive_link&ouid=102253006482066035211&rtpof=true&sd=true"
+						},
+						{
+							"topic": "chapter 9",
+							"url": "https://docs.google.com/presentation/d/1K2oRZJLroqj4SSzCZSnh5Fdj3GmUKFBv/edit?usp=drive_link&ouid=102253006482066035211&rtpof=true&sd=true"
+						}
+					],
+					"syllabus": "#"
+				},
+				{
+					"name": "Real Analysis",
+					"books": [
+						{
+							"name": "Robert G bartle - Introduction to real analysis (4th edition)",
+							"img": "/images/book_thumbnail/pscs/sem4/RA.jpg",
+							"url": "https://drive.google.com/file/d/1XA4yuR3RxTapLwyIMOEDh5X2lQFkogOa/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2018",
+							"url": "https://drive.google.com/file/d/1De3UICub1u65gWfFNX9OrzU5oocgxVNe/view?usp=drive_link"
+						},
+						{
+							"year": "2022",
+							"url": "https://drive.google.com/file/d/1VDZGpFZuz4gF6oGohhlI-DNQnrjbNl2j/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				},
+				{
+					"name": "Wave Optics",
+					"books": [],
+					"pyqs": [
+						{
+							"year": "2022",
+							"url": "https://drive.google.com/file/d/1MN12YW9oB2nn2FTy-GujE9T8wPK2WmsC/view?usp=drive_link"
+						},
+						{
+							"year": "",
+							"url": "https://drive.google.com/file/d/1rSSXujZrz00c10iCDl42RpzZo2bE-Qzs/view?usp=drive_link"
+						}
+					],
+					"notes": [
+						{
+							"topic": "wave optics 1",
+							"url": "https://drive.google.com/file/d/1tBDsGJ3tr4uG_4ycQPrys1KsbMiavPw1/view?usp=drive_link"
+						},
+						{
+							"topic": "wave optics - 2",
+							"url": "https://drive.google.com/file/d/1rSSXujZrz00c10iCDl42RpzZo2bE-Qzs/view?usp=drive_link"
+						},
+						{
+							"topic": "wave optics - 2",
+							"url": "https://drive.google.com/file/d/12QSHcxbbW6gzMFgxFmoORk6RoxwVq5Sc/view?usp=drive_link"
+						},
+						{
+							"topic": "unit 3 interference",
+							"url": "https://drive.google.com/file/d/1tBDsGJ3tr4uG_4ycQPrys1KsbMiavPw1/view?usp=drive_link"
+						}
+					],
+					"syllabus": "#"
+				}
+			]
+		},
+		{
+			"sem": 5,
+			"time_table": "",
+			"subjects": [
+				{
+					"name": "Database Management System",
+					"books": [
+						{
+							"name": "Elmasri & Navathe - Fundamentals of Database Systems (7th edition)",
+							"img": "/images/book_thumbnail/cs/sem4/dbms1.jpg",
+							"url": "https://drive.google.com/file/d/1EK8uNsovWqKqMmQ8q5WCa2UDc-An8WYw/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2017",
+							"url": "https://drive.google.com/file/d/1rELgCSBl6I33rBfJaNkWiMPWN_XF6n9a/view?usp=drive_link"
+						},
+						{
+							"year": "2018",
+							"url": "https://drive.google.com/file/d/1fZ1NQ5xl2ifnqbqdZq77x4odrk3txL_u/view?usp=drive_link"
+						},
+						{
+							"year": "2019",
+							"url": "https://drive.google.com/file/d/1rELgCSBl6I33rBfJaNkWiMPWN_XF6n9a/view?usp=drive_link"
+						},
+						{
+							"year": "2021",
+							"url": "https://drive.google.com/file/d/1_dUJJ2iK9cU8MljDBTtaBc3-AQyxsKu8/view?usp=drive_link"
+						}
+					],
+					"notes": [
+						{
+							"topic": "chapter 1",
+							"url": "https://docs.google.com/document/d/1X3ASoAlXJmw3ABbAfCQ9NbsE_HUAq5yj/edit?usp=drive_link&ouid=102253006482066035211&rtpof=true&sd=true"
+						},
+						{
+							"topic": "chapter 2",
+							"url": "https://docs.google.com/presentation/d/1hBhWlLw39NvUvQ0CwudC_PX2voAhBbtf/edit?usp=drive_link&ouid=102253006482066035211&rtpof=true&sd=true"
+						},
+						{
+							"topic": "chapter 3",
+							"url": "https://docs.google.com/presentation/d/1HdWlprLIR5lPy7NHso8gIZPV2lHFybVT/edit?usp=drive_link&ouid=102253006482066035211&rtpof=true&sd=true"
+						},
+						{
+							"topic": "chapter 4",
+							"url": "https://docs.google.com/presentation/d/1HzSLVUqic5IJXH-Z9S4CH1r26Ouo_aqH/edit?usp=drive_link&ouid=102253006482066035211&rtpof=true&sd=true"
+						},
+						{
+							"topic": "chapter 5",
+							"url": "https://docs.google.com/presentation/d/1kIKEgSIeZskshILU7WbEVj0t72JcdvFG/edit?usp=drive_link&ouid=102253006482066035211&rtpof=true&sd=true"
+						},
+						{
+							"topic": "chapter 6",
+							"url": "https://docs.google.com/presentation/d/1KkS8BLGI-7_NXEbGFQTvSqTtl3Wy9k1x/edit?usp=drive_link&ouid=102253006482066035211&rtpof=true&sd=true"
+						},
+						{
+							"topic": "chapter 14",
+							"url": "https://docs.google.com/presentation/d/19NjoI2Y7_RUiwYec4Brz4aczkjrjxEii/edit?usp=drive_link&ouid=102253006482066035211&rtpof=true&sd=true"
+						}
+					],
+					"syllabus": "#",
+					"practical": "https://docs.google.com/document/d/1X3ASoAlXJmw3ABbAfCQ9NbsE_HUAq5yj/edit?usp=drive_link&ouid=102253006482066035211&rtpof=true&sd=true"
+				},
+				{
+					"name": "Digital, Analog and instrumentation",
+					"books": [
+						{
+							"name": "book1",
+							"img": "/images/book_thumbnail/pscs/sem5/physics.jpg",
+							"url": "https://drive.google.com/file/d/1fvbvT_ZSY4ADG3Ta-h2RPopR8rN3xVLW/view?usp=drive_link"
+						},
+						{
+							"name": "book2",
+							"img": "/images/book_thumbnail/pscs/sem5/physics2.jpg",
+							"url": "https://drive.google.com/file/d/1fvbvT_ZSY4ADG3Ta-h2RPopR8rN3xVLW/view?usp=drive_link"
+						}
+					],
+					"pyqs": [],
+					"notes": [
+						{
+							"topic": "chapter 1 semiconductor",
+							"url": "https://drive.google.com/file/d/1xiFS5IeQzb7YnqmgtVTbWyl7a874r3xc/view?usp=drive_link"
+						},
+						{
+							"topic": "chapter 2 rectifiers",
+							"url": "hhttps://drive.google.com/file/d/1_tSh4mQFHPePI1hz37VYkCMI4t4BDUVS/view?usp=drive_link"
+						}
+					],
+					"syllabus": "https://drive.google.com/file/d/1xiFS5IeQzb7YnqmgtVTbWyl7a874r3xc/view?usp=drive_link",
+					"practical": "https://drive.google.com/file/d/1xGmF4pfASUfRhjC7MexlGpU7A492Iocx/view?usp=drive_link\t"
+				}
+			]
+		},
+		{
+			"sem": 6,
+			"time_table": "",
+			"subjects": [
+				{
+					"name": "Computer Networks",
+					"books": [
+						{
+							"name": "Tanenbaun & Wetherall - Computer Network (5th edition)",
+							"img": "/images/book_thumbnail/cs/sem4/cn1.jpg",
+							"url": "https://drive.google.com/file/d/1bNz36f3VmJ16xOT53NyZ8b-lojW_KAA1/view?usp=drive_link"
+						}
+					],
+					"pyqs": [
+						{
+							"year": "2016",
+							"url": "https://drive.google.com/file/d/1NAcdjX9kbaraMMHmoF2kP3UBiRVBJZQW/view?usp=drive_link"
+						},
+						{
+							"year": "2017",
+							"url": "https://drive.google.com/file/d/1NAcdjX9kbaraMMHmoF2kP3UBiRVBJZQW/view?usp=drive_link"
+						},
+						{
+							"year": "2018",
+							"url": "https://drive.google.com/file/d/1lrc_54unq5j2nayigcP9H-CKn49G3taX/view?usp=drive_link"
+						},
+						{
+							"year": "2019",
+							"url": "https://drive.google.com/file/d/1VL0Ph8QP4xCY_Ax0ZFshl31cX91DnT2Y/view?usp=drive_link"
+						},
+						{
+							"year": "2020",
+							"url": "https://drive.google.com/file/d/1VL0Ph8QP4xCY_Ax0ZFshl31cX91DnT2Y/view?usp=drive_link"
+						},
+						{
+							"year": "2021",
+							"url": "https://drive.google.com/file/d/1VL0Ph8QP4xCY_Ax0ZFshl31cX91DnT2Y/view?usp=drive_link"
+						},
+						{
+							"year": "2022",
+							"url": "https://drive.google.com/file/d/1D3ahuz_c7bgMA57S6jBKURHbgwltLqMz/view?usp=drive_link"
+						}
+					],
+					"notes": [],
+					"syllabus": "#"
+				}
+			]
+		}
+	]
+}

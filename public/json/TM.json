@@ -1,0 +1,122 @@
+[
+	{
+		"name": "Auction Of Bytes",
+		"date": "2nd March, 2024",
+		"time": "11:00 AM",
+		"headline": "Bid, Code, Win: Unveil Coding Excellence!",
+		"description": "/content/TM/aob.md",
+		"poster": "/images/TM/Auction_of_Bytes.png",
+		"id": "aob",
+		"register": ""
+	},
+	{
+		"name": "Tech Wars",
+		"date": "2nd March, 2024",
+		"time": "1:30 PM",
+		"headline": "Decode, Visualize, Predict – Unleash the Nexus of Tech Brilliance!",
+		"description": "/content/TM/techwar.md",
+		"poster": "/images/TM/Tech_Wars.png",
+		"id": "techwar",
+		"register": "https://forms.gle/p8yFii7asTtccuUN8"
+	},
+	{
+		"name": "TV Fandom",
+		"date": "2nd March, 2024",
+		"time": "11:00 AM",
+		"headline": "Quiz Time, Showtime, Game On!",
+		"description": "/content/TM/TVfandom.md",
+		"poster": "/images/TM/TV_Fandom_Quiz.png",
+		"id": "tvfandom",
+		"register": ""
+	},
+	{
+		"name": "Turn Court",
+		"date": "2nd March, 2024",
+		"time": "1:30 PM",
+		"headline": "Where Debates Twist and Turns Make Champions!",
+		"description": "/content/TM/turncourt.md",
+		"poster": "/images/TM/Turn_Court.png",
+		"id": "turncourt",
+		"register": "https://forms.gle/U5oJw8G7bE3GEqVG7"
+	},
+	{
+		"name": "Valorant",
+		"date": "2nd March, 2024",
+		"time": "2:30 PM",
+		"headline": "You want to play, lets play!",
+		"description": "/content/TM/valorant.md",
+		"poster": "/images/TM/Valorant.png",
+		"id": "valorant",
+		"register": ""
+	},
+	{
+		"name": "Web Gators",
+		"date": "2nd March, 2024",
+		"time": "11:00 AM",
+		"headline": "Design and Develop the Web!",
+		"description": "/content/TM/webgators.md",
+		"poster": "/images/TM/Webgators.png",
+		"id": "webgators",
+		"register": ""
+	},
+	{
+		"name": "Blind Code",
+		"date": "2nd March, 2024",
+		"time": "3:00 PM",
+		"headline": "Unveiling Genius: The Blind Code Challenge",
+		"description": "/content/TM/blindcode.md",
+		"poster": "/images/TM/Blind_Code.png",
+		"id": "blindcode",
+		"register": ""
+	},
+	{
+		"name": "Code Benders",
+		"date": "2nd March, 2024",
+		"time": "11:00 AM",
+		"headline": "Elevate Your Code Game, No Rules, Just Thrills!",
+		"description": "/content/TM/codebender.md",
+		"poster": "/images/TM/Code_Benders.png",
+		"id": "codebender",
+		"register": ""
+	},
+	{
+		"name": "Bumble Jumble",
+		"date": "3rd March, 2024",
+		"time": "11:00 AM",
+		"headline": "Coding Clash: Unravel the Challenge, Ignite the Code!",
+		"description": "/content/TM/bumble.md",
+		"poster": "/images/TM/Bumble_Jumble.png",
+		"id": "bumblejumble",
+		"register": ""
+	},
+	{
+		"name": "Gamers Roulette",
+		"date": "3rd March, 2024",
+		"time": "11:00 AM",
+		"headline": "Unleash the Unpredictable, Game by Game!",
+		"description": "/content/TM/gamer.md",
+		"poster": "/images/TM/Gamers_Roulette.jpg",
+		"id": "gamerroulette",
+		"register": "https://forms.gle/Ji64qkcya4rtgCsF9"
+	},
+	{
+		"name": "Multiplier Madness",
+		"date": "3rd March, 2024",
+		"time": "11:00 AM",
+		"headline": "Elevate Your Code, Embrace the Challenge!",
+		"description": "/content/TM/multiplier.md",
+		"poster": "/images/TM/Multiplier_Madness.png",
+		"id": "multipliercoding",
+		"register": "https://forms.gle/swxag87exQxkhQHx5"
+	},
+	{
+		"name": "Tech Escapade",
+		"date": "3rd March, 2024",
+		"time": "11:00 AM",
+		"headline": "Uncover Snap Share",
+		"description": "/content/TM/techescapade.md",
+		"poster": "/images/TM/Tech_Escapade.png",
+		"id": "techescapade",
+		"register": ""
+	}
+]

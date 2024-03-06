@@ -1,0 +1,212 @@
+[
+	{
+		"name": "Ankush Khanna",
+		"course": "B.sc (H) Computer Science",
+		"details": "Software Development Engineer II at Zomato",
+		"batch": "2016 - 2019",
+		"image": "/images/alumniImage/AnkushKhanna.png"
+	},
+	{
+		"name": "Tarun khanna",
+		"course": "B.sc (H) Computer Science",
+		"details": "Knowledge excel private limited. Director",
+		"batch": "2002 - 2005",
+		"image": "/images/alumniImage/TarunKhanna.jpeg"
+	},
+	{
+		"name": "Gaurav Arora",
+		"course": "B.sc (H) Computer Science",
+		"details": "Working with Deloitte Consulting USI as a Specialist Master",
+		"batch": "2004-2007",
+		"image": "/images/alumniImage/GauravArora.jpg"
+	},
+	{
+		"name": "Himank",
+		"course": "B.sc (H) Computer Science",
+		"details": "IIM Ranchi MBA Batch of 25",
+		"batch": "2019-22",
+		"image": "/images/alumniImage/BA048-23_PHOTO.png"
+	},
+	{
+		"name": "Shruti Garg",
+		"course": "B.sc (H) Computer Science",
+		"details": "MBA at KJ Saumya Institute of Managment",
+		"batch": "2019-22",
+		"image": "/images/alumniImage/Shruti.png"
+	},
+	{
+		"name": "Varchasva Khulbe",
+		"course": "B.sc (H) Computer Science",
+		"details": "MBA from SIBM Pune",
+		"batch": "2019-22",
+		"image": "/images/alumniImage/Varchasva.png"
+	},
+	{
+		"name": "Himanshu Singhal",
+		"course": "B.sc (H) Computer Science",
+		"details": "Senior Software Engineer at Info Edge India Ltd.",
+		"batch": "2017",
+		"image": "/images/alumniImage/Himanshu.png"
+	},
+	{
+		"name": "Dishika Ruhela",
+		"course": "B.sc (H) Computer Science",
+		"details": "MCA (2023-2025) from IGDTUW",
+		"batch": "2019-22",
+		"image": "/images/alumniImage/dishika.jpg"
+	},
+	{
+		"name": "Yamini Goel",
+		"course": "B.sc (H) Computer Science",
+		"details": "Software Engineer",
+		"batch": "2014-17",
+		"image": "/images/alumniImage/YaminiGoel.jpg"
+	},
+	{
+		"name": "Manish Chauhan",
+		"course": "B.sc (H) Computer Science",
+		"details": "Punjab National Bank; Scale-1 Officer",
+		"batch": "2017-2020",
+		"image": "/images/alumniImage/ManishChauhan.jpg"
+	},
+	{
+		"name": "Dr. Chhavi Sharma",
+		"course": "B.sc (H) Computer Science",
+		"details": "Assistant Professor",
+		"batch": "2010",
+		"image": "/images/alumniImage/ChhaviSharma.jpg"
+	},
+	{
+		"name": "Pooja Rana",
+		"course": "B.sc (H) Computer Science",
+		"details": "Guest Faculty DDUC",
+		"batch": "2013-2016",
+		"image": "/images/alumniImage/Pooja.jpg"
+	},
+	{
+		"name": "Neha Tomar",
+		"course": "B.sc (H) Computer Science",
+		"details": "Guest Faculty DDUC",
+		"batch": "2013-2016",
+		"image": "/images/alumniImage/Neha.jpg"
+	},
+	{
+		"name": "Tanisha Roy",
+		"course": "B.sc (H) Computer Science",
+		"details": "Ciena - Embedded Software Engineer 1",
+		"batch": "2018-2021",
+		"image": "/images/alumniImage/TanishaRoy.jpg"
+	},
+	{
+		"name": "Ankit",
+		"course": "B.sc (H) Computer Science",
+		"details": "Info Edge - Software Engineer",
+		"batch": "2017-2020",
+		"image": "/images/alumniImage/AnkitKumar.jpg"
+	},
+	{
+		"name": "Ankit Rajpal",
+		"course": "B.sc (H) Computer Science",
+		"details": "Assistant Professor",
+		"batch": "2004-07",
+		"image": "/images/alumniImage/AnkitRajpal.jpg"
+	},
+	{
+		"name": "Vaniya",
+		"course": "B.sc (H) Computer Science",
+		"details": "SDE-1 at Truminds Software Solutions",
+		"batch": "2018-2021",
+		"image": "/images/alumniImage/Vaniya.JPG"
+	},
+	{
+		"name": "Arpan Agrawal",
+		"course": "B.sc (H) Computer Science",
+		"details": "Greyorange Robotics principal architect",
+		"batch": "2004-2007",
+		"image": "/images/alumniImage/ArpanAgrawal.jpeg"
+	},
+	{
+		"name": "Anmol Mehta",
+		"course": "B.sc (H) Computer Science",
+		"details": "Software Engineer at Apple India Pvt Ltd.",
+		"batch": "2014",
+		"image": "/images/alumniImage/AnmolMehta.jpeg"
+	},
+	{
+		"name": "Ramit Taneja",
+		"course": "B.sc (H) Computer Science",
+		"details": "Hewlett Packard",
+		"batch": "06-09",
+		"image": "/images/alumniImage/RamitTaneja.jpg"
+	},
+	{
+		"name": "Pankaj Bahl",
+		"course": "B.sc (H) Computer Science",
+		"details": "Kingston multi products India pvt Ltd",
+		"batch": "2007",
+		"image": "/images/alumniImage/PankajBahl.jpg"
+	},
+	{
+		"name": "Hunny Tokas",
+		"course": "B.sc (H) Computer Science",
+		"details": "PGT COMPUTER SCIENCE",
+		"batch": "2011-14",
+		"image": "/images/alumniImage/hunnyTokas.jpg"
+	},
+	{
+		"name": "Squadron Leader Umang Gupta",
+		"course": "B.sc (H) Computer Science",
+		"details": "Helicopter Pilot at Indian Air Force",
+		"batch": "2009-2012",
+		"image": "/images/alumniImage/UmangGupta.jpeg"
+	},
+	{
+		"name": "Dr. Sachin Gupta",
+		"course": "B.sc PSCS",
+		"details": "Dean",
+		"batch": "1996-99",
+		"image": "/images/alumniImage/sachingupta.jpg"
+	},
+	{
+		"name": "Umang Bhargava",
+		"course": "B.sc (H) Computer Science",
+		"details": "Cisco",
+		"batch": "2012-2015",
+		"image": "/images/alumniImage/UmangBhargava.jpg"
+	},
+	{
+		"name": "Aastha Agarwal",
+		"course": "B.sc (H) Computer Science",
+		"details": "American Express (Software Engineer)",
+		"batch": "2021",
+		"image": "/images/alumniImage/AasthaAgarwal.jpg"
+	},
+	{
+		"name": "Bhawna Sehgal",
+		"course": "B.sc (H) Computer Science",
+		"details": "Co-founder",
+		"batch": "2017-2020",
+		"image": "/images/alumniImage/BhawnaSehgal.jpg"
+	},
+	{
+		"name": "Sumit Yadav",
+		"course": "B.sc (H) Computer Science",
+		"details": "Product Owner",
+		"batch": "2014-2017",
+		"image": "/images/alumniImage/SumitYadav.jpg"
+	},
+	{
+		"name": "Gaurav Kumar",
+		"course": "B.sc (H) Computer Science",
+		"details": "Front-end Devloper",
+		"batch": "2019-22",
+		"image": "/images/alumniImage/gaurav.jpg"
+	},
+	{
+		"name": "Ankita Saha",
+		"course": "B.sc (H) Computer Science",
+		"details": "Research Assistant at Institute of Parallel and Distributed Systems",
+		"batch": "2019-22",
+		"image": "/images/alumniImage/AnkitSaha.jpg"
+	}
+]
